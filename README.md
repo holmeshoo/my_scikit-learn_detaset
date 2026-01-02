@@ -1,4 +1,7 @@
 データセットの引用元です．
+## 20newsgroups
+https://archive.ics.uci.edu/dataset/113/twenty+newsgroups
+## california_housing
 論文著者： R. Kelley Pace and Ronald Barry
 タイトル： Sparse Spatial Autoregressions, Statistics and Probability Letters, 33, 291-297.
 公開年： 1997（※下記リンク先に、Kelley Paceによりデータセットが提出されたのは1999年11月9日との記載がある）
